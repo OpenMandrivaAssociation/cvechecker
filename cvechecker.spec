@@ -53,3 +53,16 @@ rm -rf %{buildroot}
 %dir /var/lib/cvechecker/local
 %dir /var/lib/cvechecker/cache
 
+
+
+%changelog
+* Thu Apr 14 2011 Oden Eriksson <oeriksson@mandriva.com> 3.1-1mdv2011.0
++ Revision: 652911
+- import cvechecker
+
+
+* Thu Apr 14 2011 Oden Eriksson <oeriksson@mandriva.com> 3.1-1mdv2010.2
+- 3.1
+
+* Wed Apr 13 2011 Oden Eriksson <oeriksson@mandriva.com> 3.0-1mdv2010.2
+- initial Mandriva package
