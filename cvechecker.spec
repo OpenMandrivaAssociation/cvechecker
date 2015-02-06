@@ -1,7 +1,7 @@
 Summary:	CVE reporting tool
 Name: 		cvechecker
 Version: 	3.1
-Release: 	%mkrel 1
+Release: 	2
 Group: 		System/Servers
 License: 	GPL
 URL:		http://cvechecker.sourceforge.net/
