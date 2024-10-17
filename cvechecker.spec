@@ -4,7 +4,7 @@ Version: 	3.1
 Release: 	2
 Group: 		System/Servers
 License: 	GPL
-URL:		http://cvechecker.sourceforge.net/
+URL:		https://cvechecker.sourceforge.net/
 Source0: 	%{name}-%{version}.tar.gz
 BuildRequires:	libconfig-devel
 BuildRequires:	mysql-devel
